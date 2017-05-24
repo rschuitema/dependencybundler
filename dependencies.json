@@ -1,0 +1,670 @@
+[
+    {
+        "imports": [],
+        "name": "PowerEditor.gcc.include",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.WinControls.StaticDialog"
+        ],
+        "name": "PowerEditor.src.MISC.Common",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.MISC.crc0",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.MISC.Exception",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.WinControls.shortcut",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.MISC.PluginsManager",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.MISC",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.Exception",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.MISC.Process",
+            "PowerEditor.src.MISC.Process.ProcessAvecThread",
+            "PowerEditor.src.MISC.RegExt",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.TinyXml.tinyXmlA",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.AboutDlg",
+            "PowerEditor.src.WinControls.AnsiCharPanel",
+            "PowerEditor.src.WinControls.ClipboardHistory",
+            "PowerEditor.src.WinControls.ColourPicker",
+            "PowerEditor.src.WinControls.ContextMenu",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.DocumentMap",
+            "PowerEditor.src.WinControls.FileBrowser",
+            "PowerEditor.src.WinControls.FindCharsInRange",
+            "PowerEditor.src.WinControls.FunctionList",
+            "PowerEditor.src.WinControls.Grid",
+            "PowerEditor.src.WinControls.ImageListSet",
+            "PowerEditor.src.WinControls.OpenSaveFileDialog",
+            "PowerEditor.src.WinControls.Preference",
+            "PowerEditor.src.WinControls.ProjectPanel",
+            "PowerEditor.src.WinControls.ReadDirectoryChanges",
+            "PowerEditor.src.WinControls.shortcut",
+            "PowerEditor.src.WinControls.SplitterContainer",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.StaticDialog.RunDlg",
+            "PowerEditor.src.WinControls.StatusBar",
+            "PowerEditor.src.WinControls.TabBar",
+            "PowerEditor.src.WinControls.TaskList",
+            "PowerEditor.src.WinControls.ToolBar",
+            "PowerEditor.src.WinControls.TrayIcon",
+            "PowerEditor.src.WinControls.VerticalFileSwitcher",
+            "PowerEditor.src.WinControls.WindowsDlg",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.MISC.Process.ProcessAvecThread",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common"
+        ],
+        "name": "PowerEditor.src.MISC.Process",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.MISC.RegExt",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.WinControls.OpenSaveFileDialog"
+        ],
+        "name": "PowerEditor.src.MISC",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.uchardet",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.AboutDlg",
+            "PowerEditor.src.WinControls.ColourPicker",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.ImageListSet",
+            "PowerEditor.src.WinControls.OpenSaveFileDialog",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.StaticDialog.RunDlg",
+            "PowerEditor.src.WinControls.StatusBar",
+            "PowerEditor.src.WinControls.TabBar",
+            "PowerEditor.src.WinControls.ToolBar",
+            "PowerEditor.src.WinControls.VerticalFileSwitcher",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.ScitillaComponent",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common"
+        ],
+        "name": "PowerEditor.src.TinyXml.tinyXmlA",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common"
+        ],
+        "name": "PowerEditor.src.TinyXml",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.tools.ChangeIcon",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.tools.IExplorerShell",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.tools.NppShell.src",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.TinyXml"
+        ],
+        "name": "PowerEditor.src.tools.xmlApiSorter",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.TinyXml"
+        ],
+        "name": "PowerEditor.src.tools.xmlUpdater",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.uchardet",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.AboutDlg",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.AnsiCharPanel",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.ClipboardHistory",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.TabBar",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.ColourPicker",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.MISC.Common"
+        ],
+        "name": "PowerEditor.src.WinControls.ContextMenu",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.SplitterContainer",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.ToolTip",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.DockingWnd",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.DocumentMap",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.OpenSaveFileDialog",
+            "PowerEditor.src.WinControls.ProjectPanel",
+            "PowerEditor.src.WinControls.ReadDirectoryChanges",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.StaticDialog.RunDlg",
+            "PowerEditor.src.WinControls.TreeView",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.FileBrowser",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.FindCharsInRange",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.ProjectPanel",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.TreeView",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.FunctionList",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.ContextMenu",
+            "PowerEditor.src.WinControls.shortcut",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.Grid",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.WinControls.ImageListSet",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager"
+        ],
+        "name": "PowerEditor.src.WinControls.OpenSaveFileDialog",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.MISC.RegExt",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.AboutDlg",
+            "PowerEditor.src.WinControls.ColourPicker",
+            "PowerEditor.src.WinControls.shortcut",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.TabBar",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.Preference",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.OpenSaveFileDialog",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.ProjectPanel",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.WinControls.ReadDirectoryChanges",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.shortcut",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.WinControls",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.SplitterContainer",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.OpenSaveFileDialog",
+            "PowerEditor.src.WinControls.shortcut",
+            "PowerEditor.src.WinControls.StaticDialog"
+        ],
+        "name": "PowerEditor.src.WinControls.StaticDialog.RunDlg",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.WinControls",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.StaticDialog",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.ToolBar",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.StatusBar",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.ToolBar",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.TabBar",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.ImageListSet",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.TaskList",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.TinyXml",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.ImageListSet",
+            "PowerEditor.src.WinControls.shortcut",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.ToolBar",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.WinControls",
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls.ToolTip",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "PowerEditor.src.WinControls.TrayIcon",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src.WinControls.ProjectPanel"
+        ],
+        "name": "PowerEditor.src.WinControls.TreeView",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.TaskList",
+            "scintilla.include",
+            "scintilla.win0"
+        ],
+        "name": "PowerEditor.src.WinControls.VerticalFileSwitcher",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.Common",
+            "PowerEditor.src.ScitillaComponent",
+            "PowerEditor.src.TinyXml.tinyXmlA",
+            "PowerEditor.src.WinControls",
+            "PowerEditor.src.WinControls.StaticDialog",
+            "PowerEditor.src.WinControls.TabBar",
+            "PowerEditor.src.WinControls.VerticalFileSwitcher"
+        ],
+        "name": "PowerEditor.src.WinControls.WindowsDlg",
+        "size": 0
+    },
+    {
+        "imports": [
+            "scintilla.include"
+        ],
+        "name": "PowerEditor.src.WinControls",
+        "size": 0
+    },
+    {
+        "imports": [
+            "scintilla.include",
+            "scintilla.src"
+        ],
+        "name": "scintilla.boostregex",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "scintilla.cocoa.ScintillaTest",
+        "size": 0
+    },
+    {
+        "imports": [
+            "scintilla.include",
+            "scintilla.src"
+        ],
+        "name": "scintilla.cocoa",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "scintilla.include",
+            "scintilla.lexlib",
+            "scintilla.src",
+            "scintilla.win0"
+        ],
+        "name": "scintilla.gtk",
+        "size": 0
+    },
+    {
+        "imports": [
+            "scintilla.win0"
+        ],
+        "name": "scintilla.include",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "scintilla.include",
+            "scintilla.lexlib",
+            "scintilla.win0"
+        ],
+        "name": "scintilla.lexers",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "scintilla.include"
+        ],
+        "name": "scintilla.lexlib",
+        "size": 0
+    },
+    {
+        "imports": [
+            "scintilla.include",
+            "scintilla.src"
+        ],
+        "name": "scintilla.qt.ScintillaEdit",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "scintilla.cocoa",
+            "scintilla.include",
+            "scintilla.src",
+            "scintilla.win0"
+        ],
+        "name": "scintilla.qt.ScintillaEditBase",
+        "size": 0
+    },
+    {
+        "imports": [
+            "scintilla.qt.ScintillaEditBase"
+        ],
+        "name": "scintilla.qt.ScintillaEditPy",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.MISC.PluginsManager",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "scintilla.include",
+            "scintilla.lexers",
+            "scintilla.lexlib",
+            "scintilla.win0"
+        ],
+        "name": "scintilla.src",
+        "size": 0
+    },
+    {
+        "imports": [],
+        "name": "scintilla.test.examples",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "scintilla.include",
+            "scintilla.lexlib",
+            "scintilla.src"
+        ],
+        "name": "scintilla.test.unit",
+        "size": 0
+    },
+    {
+        "imports": [
+            "PowerEditor.src",
+            "PowerEditor.src.WinControls.DockingWnd",
+            "scintilla.include",
+            "scintilla.lexlib",
+            "scintilla.src"
+        ],
+        "name": "scintilla.win0",
+        "size": 0
+    }
+]
